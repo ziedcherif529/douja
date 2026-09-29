@@ -1,0 +1,8 @@
+pocketbase.exe
+pb_data/
+.gitkeep
+CHANGELOG.md
+LICENSE.md
+*.md
+.DS_Store
+.git/

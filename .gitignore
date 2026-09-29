@@ -1,0 +1,13 @@
+node_modules
+dist
+.vercel
+.env
+.env.local
+.env.vercel
+.env.vercel.local
+
+# PocketBase
+apps/pocketbase/pocketbase.exe
+apps/pocketbase/pb_data/
+apps/pocketbase/CHANGELOG.md
+apps/pocketbase/LICENSE.md
